@@ -1,0 +1,13 @@
+tipo:CORRIENTE:7000:400.0
+tipo:DIESEL:9000:800.0
+tipo:EXTRA:8000:3500.0
+tipo:DELUXE:1970:789.0
+surtidor:Sebastian:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:DELUXE:0.0
+surtidor:Pedro:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:DELUXE:0.0
+surtidor:Jorge:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:DELUXE:0.0
+surtidor:Pedro:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:DELUXE:0.0
+empleado:Jose:0
+empleado:Luis:0
+empleado:Pedro:0
+empleado:Jorge:0
+empleado:Sebastian:0
